@@ -1,5 +1,12 @@
 function foo1(num){
-	//Equal
+	//Equal/IF Statement
+	 if (num === 1){
+    	return 0;
+  	} else if (num === 0){
+    	return 1;
+  	} else {
+    	return "Arg must be a 0 or 1";
+  	}
 }
 
 function foo2(num){
