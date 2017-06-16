@@ -41,6 +41,11 @@ function foo4(num){
 
 function foo5(num){
 	//Hash
+  var options = {};
+	options[0] = 1;
+	options[1] = 0;
+	
+	return options[num];
 }
 
 function foo6(num){
