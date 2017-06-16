@@ -12,7 +12,7 @@ We are asking for your honesty, so please only take 15 minutes.
 
 ### TECHNICAL OVERVIEW
 
- |
+Specs |
 --- |
 Language: ***Javascript*** | 
 Test Suite: ***N/A*** |
@@ -21,7 +21,7 @@ Core Assets: ***N/A***|
 
 ### CHALLENGE OVERVIEW
 
- |
+Details  |
 --- |
 Requesting Company: ***Unitas*** |
 Applying Position: ***Jr-Mid Developer*** |
