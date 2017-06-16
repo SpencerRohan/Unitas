@@ -50,6 +50,7 @@ function foo5(num){
 
 function foo6(num){
 	//Not Operator
+	return Math.floor(!num);
 }
 
 function foo7(num){
