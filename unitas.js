@@ -54,4 +54,5 @@ function foo6(num){
 
 function foo7(num){
 	//Ternary based on assumptions
+	return num !== 1 ? 1 : 0;
 }
