@@ -35,6 +35,8 @@ function foo3(num){
 
 function foo4(num){
 	//Array
+  var options = [1,0];
+  return options[num];
 }
 
 function foo5(num){
