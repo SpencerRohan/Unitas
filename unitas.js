@@ -11,6 +11,14 @@ function foo1(num){
 
 function foo2(num){
 	//Switch Case
+	switch(num){
+  	case 1:
+    	return 0;
+		case 0:
+			return 1;
+		default: 
+			return "Arg must be a 0 or 1";
+	}
 }
 
 function foo3(num){
