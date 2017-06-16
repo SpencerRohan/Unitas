@@ -11,15 +11,17 @@ There are 100s of ways to solve this, what I want to see is how many ways you ca
 We are asking for your honesty, so please only take 15 minutes.
 
 ### TECHNICAL OVERVIEW
+
  |
 --- |
 Language: ***Javascript*** | 
 Test Suite: ***N/A*** |
-Version: ***1.0.0*** |
+Version: ***1.0.1*** |
 Core Assets: ***N/A***|
 
 ### CHALLENGE OVERVIEW
-|
+
+ |
 --- |
 Requesting Company: ***Unitas*** |
 Applying Position: ***Jr-Mid Developer*** |
@@ -51,3 +53,9 @@ Argument used is either a 1 or a 0. |
 Argument is an integer.  |
 
 ### Notes, Thoughts, & Challenge Feedback
+
+Challenge took me just under 15 minutes to develop.  Spent a few minutes creating the repository and writing up this readme.
+
+I took about 5 minutes to quickly jot ideas down on "HOW" I thought one could accomplish this. The rest of the 15 minutes I quickly harfed out code in order to make this come to life.  I looked up a couple of basic syntax for only one of the functions - I knew about the NOT operator, however wasn't sure if !0 === 1 for sure.  Luckily it did!
+
+I thought this was a great challenge for potential hires, would definitly recommend that this type of coding challenges are sent to your potential hires in the future.  It doesn't eat up an entire day, gets to the point, and is quite fun to think about! 
