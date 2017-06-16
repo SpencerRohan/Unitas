@@ -22,7 +22,15 @@ function foo2(num){
 }
 
 function foo3(num){
-	//Greater than or less than
+	//Greater than or less than/IF Statement
+  num = Math.floor(num);
+  if(num > -1 && num < 1){
+    return 1;
+  }else if(num > 0 && num < 2){
+    return 0;
+  } else {
+    return "Arg must be 0 or 1";
+  }
 }
 
 function foo4(num){
